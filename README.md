@@ -1,2 +1,2 @@
 # food-munch-responsive-website
-Responsive Website
+FoodMunch_Responsive_Website
